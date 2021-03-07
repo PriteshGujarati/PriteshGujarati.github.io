@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d2e055d0.chunk.css",
-    "main.js": "/static/js/main.a2f8b2ce.chunk.js",
-    "main.js.map": "/static/js/main.a2f8b2ce.chunk.js.map",
+    "main.js": "/static/js/main.73b49c74.chunk.js",
+    "main.js.map": "/static/js/main.73b49c74.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.69b92414.js",
     "runtime-main.js.map": "/static/js/runtime-main.69b92414.js.map",
-    "static/js/2.b9ea66b3.chunk.js": "/static/js/2.b9ea66b3.chunk.js",
-    "static/js/2.b9ea66b3.chunk.js.map": "/static/js/2.b9ea66b3.chunk.js.map",
+    "static/js/2.9635c16c.chunk.js": "/static/js/2.9635c16c.chunk.js",
+    "static/js/2.9635c16c.chunk.js.map": "/static/js/2.9635c16c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.62ca387e6d8fd3fdf08337859a57dcc6.js": "/precache-manifest.62ca387e6d8fd3fdf08337859a57dcc6.js",
+    "precache-manifest.4b1d108983bcbd779777ef2129e00420.js": "/precache-manifest.4b1d108983bcbd779777ef2129e00420.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d2e055d0.chunk.css.map": "/static/css/main.d2e055d0.chunk.css.map",
-    "static/js/2.b9ea66b3.chunk.js.LICENSE.txt": "/static/js/2.b9ea66b3.chunk.js.LICENSE.txt",
+    "static/js/2.9635c16c.chunk.js.LICENSE.txt": "/static/js/2.9635c16c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
@@ -52,6 +52,7 @@
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg",
     "static/media/pwa.png": "/static/media/pwa.bd5f4148.png",
+    "static/media/sculptsoft.jpg": "/static/media/sculptsoft.e669622b.jpg",
     "static/media/shri.png": "/static/media/shri.9b828bd4.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.0288c5ec.svg",
@@ -60,8 +61,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.69b92414.js",
-    "static/js/2.b9ea66b3.chunk.js",
+    "static/js/2.9635c16c.chunk.js",
     "static/css/main.d2e055d0.chunk.css",
-    "static/js/main.a2f8b2ce.chunk.js"
+    "static/js/main.73b49c74.chunk.js"
   ]
 }
