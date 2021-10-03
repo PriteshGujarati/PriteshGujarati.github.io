@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d2e055d0.chunk.css",
-    "main.js": "/static/js/main.73b49c74.chunk.js",
-    "main.js.map": "/static/js/main.73b49c74.chunk.js.map",
+    "main.js": "/static/js/main.ada75a25.chunk.js",
+    "main.js.map": "/static/js/main.ada75a25.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.69b92414.js",
     "runtime-main.js.map": "/static/js/runtime-main.69b92414.js.map",
-    "static/js/2.9635c16c.chunk.js": "/static/js/2.9635c16c.chunk.js",
-    "static/js/2.9635c16c.chunk.js.map": "/static/js/2.9635c16c.chunk.js.map",
+    "static/js/2.8fac0e4b.chunk.js": "/static/js/2.8fac0e4b.chunk.js",
+    "static/js/2.8fac0e4b.chunk.js.map": "/static/js/2.8fac0e4b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4b1d108983bcbd779777ef2129e00420.js": "/precache-manifest.4b1d108983bcbd779777ef2129e00420.js",
+    "precache-manifest.bf4bfeea7aacfac7f1dff4cfad281fd8.js": "/precache-manifest.bf4bfeea7aacfac7f1dff4cfad281fd8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d2e055d0.chunk.css.map": "/static/css/main.d2e055d0.chunk.css.map",
-    "static/js/2.9635c16c.chunk.js.LICENSE.txt": "/static/js/2.9635c16c.chunk.js.LICENSE.txt",
+    "static/js/2.8fac0e4b.chunk.js.LICENSE.txt": "/static/js/2.8fac0e4b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
@@ -22,6 +22,7 @@
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/csueb-logo.png": "/static/media/csueb-logo.0d7f1a5f.png",
     "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -40,6 +41,7 @@
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
     "static/media/infex.png": "/static/media/infex.7b98dd4d.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/jinee-Logo.png": "/static/media/jinee-Logo.582d2c92.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
@@ -61,8 +63,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.69b92414.js",
-    "static/js/2.9635c16c.chunk.js",
+    "static/js/2.8fac0e4b.chunk.js",
     "static/css/main.d2e055d0.chunk.css",
-    "static/js/main.73b49c74.chunk.js"
+    "static/js/main.ada75a25.chunk.js"
   ]
 }
